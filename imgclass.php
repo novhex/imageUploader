@@ -15,7 +15,7 @@
 	For suggestions email me :)
 	
 	*/
-class Foo
+class imageUploader
 {
 	//folder where to save uploaded images
 	private $dir_path="file-uploads/";
