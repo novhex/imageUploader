@@ -12,7 +12,7 @@
 
 <?php
 include 'imgclass.php';
-$obj=new Foo;
+$obj=new imageUploader;
 
 
 if($_SERVER["REQUEST_METHOD"]=="POST"){
